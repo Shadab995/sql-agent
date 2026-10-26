@@ -1,0 +1,7 @@
+langgraph>=1.0
+langchain-anthropic>=1.0
+sqlalchemy>=2.0
+python-dotenv>=1.0
+pydantic>=2.0
+pandas>=2.0
+streamlit>=1.40
